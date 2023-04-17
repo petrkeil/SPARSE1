@@ -43,7 +43,6 @@ Hi. This is SPARSE database. It stores data on species composition of sites in s
 
 Full descriptions and details are provided in the **Biodiversity Data Journal** manuscript.
 
-
 --------
 
 ### Long-term goals
