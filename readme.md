@@ -43,8 +43,6 @@ Hi. This is SPARSE database. It stores data on species composition of sites in s
 
 Full descriptions and details are provided in the **Biodiversity Data Journal** manuscript.
 
---------
-
 ### Long-term goals
 
 - To create infrastructure for management of "inventory" data in our research group, with emphasis on temporal change and data heterogeneity.
