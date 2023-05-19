@@ -35,17 +35,16 @@ plot(lns)
 
 # plot the shapefiles
 fig_sites <- ggplot() + 
-        geom_sf(data = cz) + 
-        geom_sf(data = pls, fill = "black", size = 1.5, colour = "black") + 
-        geom_sf(data = lns, colour = "black", size = 1.5) + 
-        geom_sf(data = pts, colour = "black",  size = 1) +
+        geom_sf(data = cz, lwd = 0.5) + 
+        geom_sf(data = pls, fill = "black", lwd = 1, colour = "black") + 
+        geom_sf(data = lns, colour = "black", lwd = 1) + 
+        geom_sf(data = pts, colour = "black",  lwd = 1) +
         theme_minimal() +
         annotation_scale() + labs(title = "(a)")
 fig_sites
 
-
 # read the .csv from sparse
-dat <- read.csv(file="species per FID_count.csv",
+dat <- read.csv(file="Q1 static species richness.csv",
                 fileEncoding="UTF-8-BOM")
 sum(duplicated(dat$shapefileFID))
 which(duplicated(dat$shapefileFID))
@@ -74,7 +73,7 @@ which(duplicated(dat$shapefileFID))
 
 
 # histogram of species richness
-fig_S_hist <- ggplot(data = dat, aes(x = species_perFID)) + 
+fig_S_hist <- ggplot(data = dat, aes(x = verbatimIdentificationPerSite_Count)) + 
   geom_histogram(fill="grey", colour = "black") +
   xlab("# of Species") + ylab("Count") +
   theme_minimal() + labs(title = "(c)")
@@ -82,7 +81,7 @@ fig_S_hist
 
 # species-area relationship
 fig_SAR <- ggplot(data = dat, aes(x = totalAreaSampledInSquareKilometers,
-                                  y = species_perFID)) + 
+                                  y = verbatimIdentificationPerSite_Count)) + 
   geom_point(shape = 1) +  
   scale_x_log10() +        # x axis is logarithmic
   scale_y_log10() +        # y axis is logarithmic
@@ -99,7 +98,7 @@ dev.off()
 # ------------------------------------------------------------------------------
 # Events in time
 
-evnt <- read_xlsx("3_EVENT.xlsx")
+evnt <- read_csv("3_EVENT.csv")
 evnt <- data.frame(evnt, timeSpan = evnt$endYear-evnt$startYear + 1)
 
 fig_time <- ggplot(evnt, aes(x = startYear)) + 

@@ -1,0 +1,347 @@
+﻿siteID,parentSiteID,siteName,siteShapeID,shapefileNameID,objectID,totalAreaSampledInSquareKilometers,verbatimIdentificationPerSite_Count
+1,,Krásný dvůr,1,1,0,0.995599985,63
+2,,Růžodolská spoil bank,1,1,1,0.449999988,3
+3,,Jiřetínská spoil bank,1,1,2,0.639999986,6
+4,,Kopistská spoil bank,1,1,3,0.100000001,6
+5,,Kopistská spoil bank 2,1,1,4,0.100000001,14
+6,,Vsetínská vodárna,1,1,5,0.25,26
+7,,park in Vsetín,1,1,6,0.0427,73
+10,,Pomoraví 1,1,1,7,0.075000003,35
+11,,Pomoraví 2,1,1,8,0.034000002,25
+12,,Pomoraví 3,1,1,9,0.039999999,33
+13,,PR Libochovka,1,1,11,0.142499998,28
+14,,vrch Hradec,1,1,12,0.122500002,23
+26,,NPR Žofínský prales,1,1,10,1.021999955,252
+27,26,NPR Žofínský prales - line A1,2,2,0,0.064999998,191
+28,26,NPR Žofínský prales - line A2,2,2,1,0.064999998,161
+29,26,NPR Žofínský prales - line B1,2,2,2,0.050000001,124
+30,26,NPR Žofínský prales - line B2,2,2,3,0.050000001,127
+31,,Niva Moravice,1,1,22,0.419999987,168
+32,,NPR Žebračka,1,1,23,2.572000027,60
+33,32,NPR Žebračka-point 1,3,3,0,0.00785,23
+34,32,NPR Žebračka-point 2,3,3,1,0.00785,23
+35,32,NPR Žebračka-point 3,3,3,2,0.00785,23
+36,32,NPR Žebračka-point 4,3,3,3,0.00785,19
+37,32,NPR Žebračka-point 5,3,3,4,0.00785,24
+38,32,NPR Žebračka-point 6,3,3,5,0.00785,21
+39,32,NPR Žebračka-point 7,3,3,6,0.00785,18
+40,32,NPR Žebračka-point 8,3,3,7,0.00785,18
+41,32,NPR Žebračka-point 9,3,3,8,0.00785,27
+42,32,NPR Žebračka-point 10,3,3,9,0.00785,19
+43,32,NPR Žebračka-point 11,3,3,10,0.00785,18
+44,32,NPR Žebračka-point 12,3,3,11,0.00785,21
+45,32,NPR Žebračka-point 13,3,3,12,0.00785,18
+46,32,NPR Žebračka-point 14,3,3,13,0.00785,22
+47,32,NPR Žebračka-point 15,3,3,14,0.00785,22
+48,32,NPR Žebračka-point 16,3,3,15,0.00785,19
+49,32,NPR Žebračka-point 17,3,3,16,0.00785,22
+50,32,NPR Žebračka-point 18,3,3,17,0.00785,19
+51,32,NPR Žebračka-point 19,3,3,18,0.00785,19
+52,32,NPR Žebračka-point 20,3,3,19,0.00785,20
+53,32,NPR Žebračka-point 21,3,3,20,0.00785,17
+54,32,NPR Žebračka-point 22,3,3,21,0.00785,20
+55,32,NPR Žebračka-point 23,3,3,22,0.00785,17
+56,32,NPR Žebračka-point 24,3,3,23,0.00785,21
+57,32,NPR Žebračka-point 25,3,3,24,0.00785,18
+58,32,NPR Žebračka-point 26,3,3,25,0.00785,21
+59,32,NPR Žebračka-point 27,3,3,26,0.00785,20
+60,32,NPR Žebračka-point 28,3,3,27,0.00785,19
+61,32,NPR Žebračka-point 29,3,3,28,0.00785,18
+62,32,NPR Žebračka-point 30,3,3,29,0.00785,27
+63,32,NPR Žebračka-point 31,3,3,30,0.00785,21
+64,32,NPR Žebračka-point 32,3,3,31,0.00785,19
+65,32,NPR Žebračka-point 33,3,3,32,0.00785,22
+66,,Zlatý potok - Železné hory,1,1,13,0.129999995,22
+67,,castle park in Budišov u Třebíče,1,1,14,0.064000003,134
+68,,Úvalenské louky,1,1,15,0.107500002,11
+69,,town park in Jablunkov,1,1,16,0.093999997,114
+70,,Třetí díl - Kobylské jezero,1,1,17,0.421000004,110
+71,,Na Vanovicích,1,1,30,0.159999996,33
+72,,castle park Libějovice,1,1,28,0.119999997,36
+73,,castle park Blatná,1,1,29,0.289999992,41
+74,93,Čerňavina - point 1,3,3,50,0.00785,13
+75,93,Čerňavina - point 2,3,3,33,0.00785,18
+76,93,Čerňavina - point 3,3,3,34,0.00785,24
+77,93,Čerňavina - point 4,3,3,35,0.00785,18
+78,93,Čerňavina - point 5,3,3,36,0.00785,21
+79,93,Čerňavina - point 6,3,3,37,0.00785,25
+80,93,Čerňavina - point 7,3,3,38,0.00785,17
+81,93,Čerňavina - point 8,3,3,39,0.00785,18
+82,93,Čerňavina - point 9,3,3,40,0.00785,17
+83,93,Čerňavina - point 10,3,3,41,0.00785,12
+84,93,Čerňavina - point 11,3,3,42,0.00785,14
+85,93,Čerňavina - point 12,3,3,43,0.00785,15
+86,93,Čerňavina - point 13,3,3,49,0.00785,11
+87,93,Čerňavina - point 14,3,3,44,0.00785,14
+88,93,Čerňavina - point 15,3,3,45,0.00785,19
+89,93,Čerňavina - point 16,3,3,46,0.00785,14
+90,93,Čerňavina - point 17,3,3,47,0.00785,10
+91,93,Čerňavina - point 18,3,3,48,0.00785,11
+92,93,Čerňavina - point 19,3,3,51,0.00785,7
+93,,PR Čerňavina,1,1,24,0.613200009,41
+96,,Řežabinec,1,1,27,1.159999967,151
+97,,Vrapač,1,1,25,1.432999969,225
+98,,Litovelské luhy,1,1,26,3.611999989,225
+99,100,Tobiášův vrch,1,1,18,0.024,56
+100,,Tobiášův vrch and surroundings,1,1,19,0.035300002,42
+101,,NPR Ramena řeky Moravy,1,1,32,0.649999976,63
+102,,streams of Chroboly region - Šumava,1,1,43,70.37000275,17
+103,,Krkonoše-bilateral Czech-Polish Biosferic reserve,1,1,63,930,183
+104,,Novozámecký rybník,1,1,46,3.680000067,245
+105,,PR Břidličná,1,1,52,6.519999981,44
+106,,Červenohorské sedlo,1,1,53,0.529999971,66
+107,,Petrovy kameny-ski slopes,1,1,59,0.639999986,38
+108,,Ovčárenská silnice,2,2,9,0.548699975,28
+109,,Mokřadlo,1,1,78,0.134000003,98
+110,,Střemošická stráň,1,1,79,0.463999987,111
+111,,Starý rybník,1,1,83,0.050000001,38
+112,,Malý a Velký štít,1,1,84,0.091600001,93
+113,,Louny-Hlavní hřbitov,1,1,80,0.028000001,17
+114,,Louny-hřbitov U 14 svatých pomocníků,1,1,81,0.0052,5
+115,,Louny-hřbitov U svatého Petra,1,1,82,0.002,4
+116,,Kněžičky,1,1,76,0.980000019,53
+117,116,Kněžičky-transect,2,2,10,0.417979985,175
+121,,Šternberk-castle park,1,1,73,0.045000002,53
+122,,Výšovice-castle park,1,1,74,0.016000001,48
+123,,Jesenec-castle park,1,1,75,0.002,16
+132,,Jeseníky - peaks,1,1,50,8.199999809,53
+134,,Jeseníky - peaks 2,1,1,51,12.39999962,57
+138,,Třesín,1,1,64,1.5,66
+144,,Lednické rybníky a Pastvisko,1,1,47,6.900000095,258
+145,,Zámecký rybník,1,1,48,1.080000043,120
+146,144,Pastvisko,1,1,49,0.620000005,56
+148,,Tachov-gardening colony 1,1,1,39,0.045000002,15
+149,,Tachov-gardening colony 2,1,1,40,0.055,41
+150,,Tachov-gardening colony 3,1,1,41,0.078000002,38
+151,,Tachov-gardening colony 4,1,1,42,0.119999997,198
+153,,Černý důl,1,1,65,0.219999999,35
+154,,Zemská brána and surroundig,1,1,69,11.69999981,58
+155,154,Zemská brána,1,1,70,0.899999976,44
+156,,Ostrava-Poruba - centre,1,1,68,0.159999996,244
+157,,České středohoří-west part,1,1,77,82,68
+158,,Velký Kosíř,1,1,31,4.880000114,82
+159,,Raná hill and surrounding,1,1,44,1.649999976,38
+160,159,Raná-reserve-transect,1,1,45,0.045000002,25
+161,,V Hlubokém,1,1,57,1.200000048,43
+162,161,V Hlubokém-transect,2,2,5,0.039999999,37
+165,,Lovoš,1,1,71,0.50999999,46
+166,165,Lovoš-transect,1,1,72,0.039999999,28
+167,,Radobýl,1,1,58,0.189999998,41
+168,167,Radobýl - rock transect,2,2,6,0.01,13
+169,167,Radobýl - steppe transect,2,2,7,0.01,22
+170,167,Radobýl - forest transect,2,2,8,0.01,19
+171,,SPR Slanisko,1,1,54,0.039999999,60
+172,,rybník u Bylan,1,1,55,0.015,16
+173,171,SPR Slanisko-transect,1,1,56,0.022500001,33
+174,,Rač,1,1,60,0.152999997,44
+175,174,Rač-steppe,1,1,61,0.029999999,32
+176,174,Rač-shrubbery,1,1,62,0.035999998,31
+177,,Raná hill and surrounding,1,1,44,1.649999976,47
+178,177,Raná-reserve-transect,1,1,45,0.045000002,24
+179,,Libický luh,1,1,86,4.400000095,66
+181,,Pod Hraničníkem,2,2,12,0.087499999,35
+182,,U špaku,2,2,13,0.093000002,14
+183,,U Černého pařezu I,2,2,14,0.022500001,9
+184,,U Černého pařezu II,2,2,15,0.0425,14
+185,,Nad Rakouskou cestou,2,2,16,0.050000001,37
+186,,Pod Plechým,2,2,17,0.104999997,39
+187,,Pod Plešným jezerem,2,2,18,0.059999999,11
+190,,Kusá hora,1,1,99,1.830000043,178
+191,,Maštale,1,1,85,10.82999992,88
+192,191,Maštale-transect,2,2,11,0.115000002,48
+193,,Krkanka,1,1,100,0.981000006,49
+194,,Oheb,1,1,101,0.264999986,41
+195,,Polom,1,1,102,0.202000007,30
+196,,Strádovské peklo,1,1,103,0.873000026,46
+197,,Údolí Doubravy,1,1,104,0.921000004,40
+198,,Vápenice,1,1,105,0.418000013,44
+199,,Vršovská olšina,1,1,106,0.195999995,34
+200,,Bohdanečský rybník,1,1,113,2.477999926,395
+201,,Fláje-PA1,1,1,89,0.100000001,12
+202,,Fláje-PA2,1,1,90,0.075000003,9
+203,,Fláje-PA3,1,1,91,0.100000001,3
+204,,Fláje-PA4,1,1,92,0.075000003,12
+205,,Fláje-PA5,1,1,93,0.045000002,7
+206,,Fláje-C,1,1,94,0.07,4
+207,,Fláje-PP1,1,1,95,0.104999997,3
+208,,Fláje-PP2,1,1,96,0.055,9
+209,,Fláje-F,1,1,97,0.050000001,10
+210,,Křivoklát-hillsides above river,1,1,87,0.800000012,74
+211,,Květnice,1,1,88,1.269999981,45
+212,,Jezevčí vrch,1,1,111,0.800000012,36
+213,212,Jezevčí vrch-transects,1,1,112,0.059999999,29
+214,,Březina,1,1,107,0.119999997,48
+215,214,Březina-peatbog,1,1,108,0.005,12
+216,214,Březina-mixed forest,1,1,109,0.015,12
+217,214,Březina-beechwood,1,1,110,0.064999998,30
+219,,park Lužánky-Brno,1,1,127,0.150000006,152
+220,,Boubínský prales,1,1,115,0.192000002,44
+221,,Boubín-polesí Zátoň,1,1,116,0.175999999,45
+222,,Boubín-polesí Zátoň a Včelná,1,1,117,0.620000005,41
+228,,Velký Polom,1,1,114,0.736699998,40
+229,228,Velký Polom-point 1,3,3,112,0.00785,6
+230,228,Velký Polom-point 2,3,3,113,0.00785,10
+231,228,Velký Polom-point 3,3,3,114,0.00785,11
+232,228,Velký Polom-point 4,3,3,115,0.00785,18
+233,228,Velký Polom-point 5,3,3,116,0.00785,14
+234,228,Velký Polom-point 6,3,3,117,0.00785,8
+235,228,Velký Polom-point 7,3,3,118,0.00785,13
+236,228,Velký Polom-point 8,3,3,119,0.00785,11
+237,228,Velký Polom-point 9,3,3,120,0.00785,16
+238,228,Velký Polom-point 10,3,3,121,0.00785,11
+239,228,Velký Polom-point 11,3,3,122,0.00785,13
+240,228,Velký Polom-point 12,3,3,123,0.00785,11
+241,228,Velký Polom-point 13,3,3,124,0.00785,10
+242,228,Velký Polom-point 14,3,3,125,0.00785,16
+243,228,Velký Polom-point 15,3,3,126,0.00785,13
+244,228,Velký Polom-point 16,3,3,127,0.00785,13
+245,228,Velký Polom-point 17,3,3,128,0.00785,10
+246,228,Velký Polom-point 18,3,3,129,0.00785,8
+247,,Kašperské hory region,1,1,125,36,80
+248,,Plané loučky,1,1,128,0.212699994,53
+249,,Hvězda,1,1,131,0.034000002,32
+250,,Za mlýnem,1,1,132,0.142000005,43
+251,,Tachovsko-villages,1,1,130,0.463999987,34
+252,,Bohdanečský rybník,1,1,113,2.477999926,185
+253,,Rakousy-bučina,1,1,129,0.075999998,20
+254,,centre of Prague,1,1,136,0.368999988,12
+255,,Chrášťanský vrch - Vysoká Běta,1,1,122,7.079999924,30
+257,,niva řeky Svratky-Rychtářky,1,1,118,0.050000001,120
+258,,Šerák-Keprník,1,1,158,2.269999981,53
+259,,Šerák-Keprník: transect 1,2,2,21,0.152999997,9
+260,,Šerák-Keprník: transect 2,2,2,22,0.151500002,16
+261,258,Šerák-Keprník: transect 3,2,2,23,0.083700001,11
+279,,Smradlavý,1,1,123,0.146500006,64
+298,,park Komenského sady,1,1,126,0.284999996,49
+299,,Průhonice,1,1,134,2.5,113
+300,299,Průhonice-obora,1,1,135,0.104999997,39
+301,299,Průhonice-transect,2,2,20,0.230000004,22
+302,,Praha-Bohnice,1,1,148,0.331999987,39
+303,,Praha-Invalidovna,1,1,147,0.119000003,17
+304,,Praha-Červený vrch,1,1,145,0.182999998,18
+305,,Praha-Petřiny,1,1,146,0.128999993,14
+306,,Chomoutovské jezero,1,1,139,1.210000038,200
+307,,Bažantnice u Pracejovic,1,1,151,0.218999997,36
+308,,Žlíbky u Vráže,1,1,149,0.245000005,26
+309,,Hrby,1,1,150,0.157000005,32
+310,,Tachovsko-small groves,1,1,133,0.086999997,83
+311,,Slavkovský les-coniferous woods,1,1,152,2.670000076,69
+312,,Tachov-east,1,1,137,0.70599997,49
+313,,Tachov-centre,1,1,138,1,52
+314,,Tachovská brázda-pine groves 1,1,1,140,11.93500042,60
+315,,Tachovská brázda-pine groves 2,1,1,141,6.320000172,53
+316,,Rozcestí u Rozvadova,1,1,153,0.0242,68
+317,,Přimda-mountain-pp1,1,1,154,0.055,51
+318,,Přimda-mountain-pp2,1,1,155,0.109999999,53
+319,,Diana village,1,1,165,0.063600004,84
+320,,Kateřina village,1,1,166,0.117399998,85
+321,,Tachovská brázda-woods,1,1,142,33.09999847,116
+322,,Podkovák,1,1,167,0.211899996,27
+323,,Tachovská brázda-woods 2,1,1,143,20,55
+324,,Tachovská brázda-woods 3,1,1,144,14.10499954,37
+325,,Hubský,1,1,124,0.115599997,66
+326,,Mokřadlo,1,1,78,0.133100003,85
+327,,Olomoucký hrad,1,1,156,0.020400001,24
+328,,Opatovický rybník-reeds,1,1,157,0.025,17
+329,,Borečský vrch,1,1,119,0.174600005,46
+330,329,Borečský vrch-transect O.I,1,1,120,0.0075,19
+331,329,Borečský vrch-transect O.II,1,1,121,0.050000001,26
+332,,Košťálov and surrounding,1,1,159,0.5,59
+333,332,Košťálov-transect A,1,1,160,0.02,18
+334,332,Košťálov-transect B,1,1,161,0.021,25
+335,332,Košťálov-transect C,1,1,162,0.02,22
+336,332,Košťálov-transect D,1,1,163,0.025,26
+337,332,Košťálov-transect E,1,1,164,0.015,13
+338,,rybník Motovidlo,1,1,98,0.100000001,81
+339,,Třeboňsko-hráze,2,2,19,1.075000048,114
+340,,Vodňansko,1,1,33,96.25,399
+341,340,Vodňansko - point transect,2,2,4,1.25,264
+342,341,Vodňansko - point 1,3,3,52,0.00785,20
+343,341,Vodňansko - point 2,3,3,53,0.00785,25
+344,341,Vodňansko - point 3,3,3,54,0.00785,35
+345,341,Vodňansko - point 4,3,3,55,0.00785,23
+346,341,Vodňansko - point 5,3,3,56,0.00785,21
+347,341,Vodňansko - point 6,3,3,57,0.00785,25
+348,341,Vodňansko - point 7,3,3,58,0.00785,25
+349,341,Vodňansko - point 8,3,3,59,0.00785,22
+350,341,Vodňansko - point 9,3,3,60,0.00785,21
+351,341,Vodňansko - point 10,3,3,61,0.00785,28
+352,341,Vodňansko - point 11,3,3,62,0.00785,16
+353,341,Vodňansko - point 12,3,3,63,0.00785,32
+354,341,Vodňansko - point 13,3,3,64,0.00785,25
+355,341,Vodňansko - point 14,3,3,65,0.00785,43
+356,341,Vodňansko - point 15,3,3,66,0.00785,45
+357,341,Vodňansko - point 16,3,3,67,0.00785,36
+358,341,Vodňansko - point 17,3,3,68,0.00785,30
+359,341,Vodňansko - point 18,3,3,69,0.00785,34
+360,341,Vodňansko - point 19,3,3,70,0.00785,33
+361,341,Vodňansko - point 20,3,3,71,0.00785,26
+362,341,Vodňansko - point 21,3,3,72,0.00785,32
+363,341,Vodňansko - point 22,3,3,73,0.00785,40
+364,341,Vodňansko - point 23,3,3,74,0.00785,38
+365,341,Vodňansko - point 24,3,3,75,0.00785,38
+366,341,Vodňansko - point 25,3,3,76,0.00785,37
+367,341,Vodňansko - point 26,3,3,77,0.00785,25
+368,341,Vodňansko - point 27,3,3,78,0.00785,46
+369,341,Vodňansko - point 28,3,3,79,0.00785,32
+370,341,Vodňansko - point 29,3,3,80,0.00785,35
+371,341,Vodňansko - point 30,3,3,81,0.00785,42
+372,341,Vodňansko - point 31,3,3,82,0.00785,43
+373,341,Vodňansko - point 32,3,3,83,0.00785,35
+374,341,Vodňansko - point 33,3,3,84,0.00785,35
+375,341,Vodňansko - point 34,3,3,85,0.00785,34
+376,341,Vodňansko - point 35,3,3,86,0.00785,30
+377,341,Vodňansko - point 36,3,3,87,0.00785,34
+378,341,Vodňansko - point 37,3,3,88,0.00785,42
+379,341,Vodňansko - point 38,3,3,89,0.00785,33
+380,341,Vodňansko - point 39,3,3,90,0.00785,18
+381,341,Vodňansko - point 40,3,3,91,0.00785,19
+382,341,Vodňansko - point 41,3,3,92,0.00785,16
+383,341,Vodňansko - point 42,3,3,93,0.00785,23
+384,341,Vodňansko - point 43,3,3,94,0.00785,42
+385,341,Vodňansko - point 44,3,3,95,0.00785,25
+386,341,Vodňansko - point 45,3,3,96,0.00785,36
+387,341,Vodňansko - point 46,3,3,97,0.00785,30
+388,341,Vodňansko - point 47,3,3,98,0.00785,34
+389,341,Vodňansko - point 48,3,3,99,0.00785,30
+390,341,Vodňansko - point 49,3,3,100,0.00785,15
+391,341,Vodňansko - point 50,3,3,101,0.00785,44
+392,341,Vodňansko - point 51,3,3,102,0.00785,27
+393,341,Vodňansko - point 52,3,3,103,0.00785,27
+394,341,Vodňansko - point 53,3,3,104,0.00785,34
+395,341,Vodňansko - point 54,3,3,105,0.00785,34
+396,341,Vodňansko - point 55,3,3,106,0.00785,45
+397,341,Vodňansko - point 56,3,3,107,0.00785,29
+398,341,Vodňansko - point 57,3,3,108,0.00785,31
+399,341,Vodňansko - point 58,3,3,109,0.00785,27
+400,341,Vodňansko - point 59,3,3,110,0.00785,44
+401,341,Vodňansko - point 60,3,3,111,0.00785,33
+402,340,Skočický Hrad - beechwood,1,1,34,0.119999997,36
+403,340,Skočický Hrad - spruce grove,1,1,35,0.170000002,24
+404,340,Dřemlinský pond - reeds,1,1,36,0.016000001,10
+405,340,Strpský pond - reeds,1,1,37,0.012,18
+406,340,Záhorský pond - reeds,1,1,38,0.005,9
+407,,Kyselý kout,1,1,66,0.479999989,4
+408,,Mumlavský důl-southern slope,1,1,67,0.5,13
+409,,NPR Drbákov – Albertovy skály,1,1,171,0.610000014,36
+410,409,NPR Drbákov – Albertovy skály-transect,2,2,25,0.170000002,18
+411,,Rybník Louňov,1,1,170,0.018999999,148
+412,,Drbákovské tisy - Albertovy skály,1,1,172,0.086999997,8
+413,,Vůznice,1,1,173,2.299999952,69
+414,413,Vůznice-transect 12,2,2,26,0.0056,26
+415,413,"Vůznice-transect 28,30-33",2,2,27,0.0122,31
+416,413,Vůznice-transect 61,2,2,28,0.0064,20
+417,413,Vůznice-transect 64,2,2,29,0.0075,29
+418,413,Vůznice-transect 46-47,2,2,30,0.012,24
+419,413,Vůznice-transect 11,2,2,31,0.0068,22
+420,413,Vůznice-transect 66,2,2,32,0.004,25
+421,413,Vůznice-transect 59,2,2,33,0.004,23
+422,413,Vůznice-transect 62,2,2,34,0.006,28
+423,413,Vůznice-transect 14,2,2,35,0.006,28
+424,413,Vůznice-transect 69,2,2,36,0.0028,29
+425,413,Vůznice-transect 13,2,2,37,0.004,26
+426,413,Vůznice-transect 39-40,2,2,38,0.0038,28
+427,413,Vůznice-transect 72,2,2,39,0.002,25
+428,430,Velký Blaník-transect,2,2,24,0.600000024,408
+429,,Malý Blaník,1,1,168,0.127100006,105
+430,,Velký Blaník,1,1,169,0.846800029,41
