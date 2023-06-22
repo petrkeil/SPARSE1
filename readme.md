@@ -5,13 +5,17 @@ output:
 ---
 # SPARSE - SPecies AcRoss ScalEs (version 1.0)
 
-**Authors:** Petr Keil, Eva Trávníčková, Kateřina Tschernosterová, Florencia Grattarola
+**Authors:**  Kateřina Tschernosterová, Eva Trávníčková, Florencia Grattarola, Clara Rosse, Petr Keil
 
-**Email:** keil@fzp.czu.cz
+**Contact email:** keil@fzp.czu.cz
 
 ## License
 
-SPARSE is under CC-BY license (https://creativecommons.org/about/cclicenses/). Users of the Czech bird data in this database should cite the original publications (studies) in which the inventories were first published. A BibTeX file with all the references is in this folder, and can be loaded to common reference managers such as Zotero or JabRef. Users of the SPARSE framework, or those who modify it, should cite Keil *et al.* (2022) paper in **Biodiversity Data Journal**.
+SPARSE is under CC-BY license (https://creativecommons.org/about/cclicenses/). 
+Users of the Czech bird data in this database should cite the original publications
+(studies) in which the inventories were first published. A BibTeX file with all the
+references is in this folder, and can be loaded to common reference managers such as
+Zotero or JabRef. Users of the SPARSE framework, or those who modify it, should cite Keil *et al.* (2022) paper in **Biodiversity Data Journal**.
 
 -------
 
@@ -64,7 +68,7 @@ Full descriptions and details are provided in the **Biodiversity Data Journal** 
 
 ### Progress summary
 
-The very first idea was originally conceived in August 2020, at iDiv, Leipzig, by Petr Keil & Clara Rosse, with the backing of Jonathan M. Chase. In the fall of 2021, a brand new effort had started at the Department of Spatial Sciences at Czech University of Life Sciences in Prague, where Petr Keil relocated to start his tenure-track position. During summer and fall 2021 we have (with Eva Trávníčková, Kateřina Tschernosterová, and Flo Grattarola) designed a new structure from scratch, matched it with Darwin Core and Humboldt core standards, and implemented it in MS Access.
+The very first idea was originally conceived in August 2020, at iDiv, Leipzig, by Petr Keil, and first attempts for implementation were done together with Clara Rosse, with the backing of Jonathan M. Chase. In the fall of 2021, a brand new effort had started at the Department of Spatial Sciences at Czech University of Life Sciences in Prague, where Petr Keil relocated to start his tenure-track position. During summer and fall 2021 we have (with Eva Trávníčková, Kateřina Tschernosterová, and Flo Grattarola) designed a new structure from scratch, matched it with Darwin Core and Humboldt core standards, and implemented it in MS Access.
 
 
 -------
