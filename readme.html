@@ -472,8 +472,34 @@ Access.</p>
 <hr />
 </div>
 </div>
-<div id="acknowledgements" class="section level2" number="1.4">
-<h2><span class="header-section-number">1.4</span> Acknowledgements</h2>
+<div id="opening-sparse" class="section level2" number="1.4">
+<h2><span class="header-section-number">1.4</span> Opening SPARSE</h2>
+<p><strong>If you have MS Windows and MS Access</strong></p>
+<p>The primary way to open SPARSE is on a MS Windows machine with <em>MS
+Access</em> installed. We have created SPARSE on MS Access version 2309,
+so this is the version on which everything works (double checked by
+several users).</p>
+<p><strong>If you have MS Windows but not MS Access</strong></p>
+<p>It should be possible to open SPARSE in free <em>LibreOffice
+BASE</em>. Fire up the program, choose <code>connect to database</code>
+and choose <code>MS Access</code>.</p>
+<p><strong>If you have Ubuntu Linux</strong></p>
+<p>You can list and extract individual tables from SPARSE.accdb (tested
+on Ubuntu 20.04 LTS).</p>
+<ol style="list-style-type: decimal">
+<li><p>install the mdbtools package:
+<code>sudo apt install mdbtools</code></p></li>
+<li><p>list all tables in SPARSE:
+<code>mdb-tables SPARSE.accdb</code></p></li>
+<li><p>export any table to .csv, for example the 1_DATASET table:
+<code>mdb-export SPARSE.accdb 1_DATASET &gt; 1_DATASET.csv</code></p></li>
+</ol>
+<p><strong>If you have a Mac with no MS Access</strong></p>
+<p>We haven’t tested this option yet.</p>
+<hr />
+</div>
+<div id="acknowledgements" class="section level2" number="1.5">
+<h2><span class="header-section-number">1.5</span> Acknowledgements</h2>
 <p>SPARSE has been supported by funding from Research Excellence in
 Evnironmental Sciences (REES) provided by Czech University of Life
 Sciences. SPARSE has also received funing from the European Union (ERC,

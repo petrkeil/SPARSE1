@@ -73,6 +73,34 @@ The very first idea was originally conceived in August 2020, at iDiv, Leipzig, b
 
 -------
 
+## Opening SPARSE
+
+**If you have MS Windows and MS Access**
+
+The primary way to open SPARSE is on a MS Windows machine with *MS Access* installed. We have created SPARSE on MS Access version 2309, so this is the version on which everything works (double checked by several users). 
+
+**If you have MS Windows but not MS Access**
+
+It should be possible to open SPARSE in free *LibreOffice BASE*. Fire up the program, choose ```connect to database``` and choose ```MS Access```.
+
+**If you have Ubuntu Linux**
+
+You can list and extract individual tables from SPARSE.accdb (tested on Ubuntu 20.04 LTS).
+
+1. install the mdbtools package:
+```sudo apt install mdbtools```
+
+2. list all tables in SPARSE:
+```mdb-tables SPARSE.accdb```
+
+3. export any table to .csv, for example the 1_DATASET table:
+```mdb-export SPARSE.accdb 1_DATASET > 1_DATASET.csv```
+
+**If you have a Mac with no MS Access**
+
+We haven't tested this option yet.
+
+-------------
 
 ## Acknowledgements
 
